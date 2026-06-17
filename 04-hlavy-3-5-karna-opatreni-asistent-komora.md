@@ -30,6 +30,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 A 53/2011 - 76](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/544372) — 26. 5. 2015
+  > „Soud nejprve považuje za nezbytné poukázat na specifika řízení o správním deliktu, která se uplatní i v kárném řízení, neboť kárné provinění je správním disciplinárním deliktem, tj. deliktem fyzické osoby, která je ve zvláštních právních vztazích k určité instituci se zvláštními právy a povinnostmi vyplývajícími právě z toho vztahu. V projednávané věci je uvedenou institucí Komora auditorů České republiky"
+- *NSS* [11 Ad 25/2015 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/518048) — 15. 6. 2017
+  > „…odpovědnost za kárné provinění se může vztahovat výlučně k fyzické osobě, která se měla kárného provinění dopustit…"
+
 #### Kárné provinění jako zvláštní delikt profesní samosprávy (odst. 1)
 
 Kárné provinění je definováno jako **zaviněné porušení povinnosti** stanové zákonem nebo normativními předpisy Komory. Definice je klíčová v tom, co z ní vyplývá i to, co výslovně vylučuje. Pojem „zavinění" odkazuje k subjektivní stránce — odpovědnost za kárné provinění je tedy vázána na **úmysl nebo nedbalost** auditora, nikoliv na objektivní odpovědnost. Tím se kárná odpovědnost auditora strukturálně blíží disciplinárním řízením jiných regulovaných profesí (advokáti, notáři, lékaři).
@@ -171,6 +178,11 @@ Odstavec 3 řeší situaci, kdy členem řídicího orgánu auditorské společn
 > *(8) O zahájení řízení a jeho výsledku kárná komise Komory informuje dozorčí komisi a Radu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 A 53/2011 - 76](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/544372) — 26. 5. 2015
+  > „V řízení o správním deliktu se neuplatní zásada koncentrace správního řízení (§ 82 odst. 4 správního řádu); obviněný v tomto řízení může uplatňovat nové skutečnosti a navrhovat nové důkazy i v odvolání a správní orgán nemůže odmítnout provést navržené důkazy pouze s poukazem na to, že nebyly navrženy v řízení v prvním stupni. Správní orgán rozhodující v řízení o správním deliktu je povinen zjistit skutkový stav bez ohledu na to, jak se obviněný k řízení staví"
 
 #### Příslušnost a iniciační subjekty (odst. 1)
 
@@ -630,6 +642,13 @@ Prezident je **statutárním orgánem Komory** a zároveň předsedou výkonnéh
 > *(2) Dozorčí komise informuje nejméně jednou za šest měsíců Komoru a Radu o výsledcích své činnosti.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 A 105/2018 - 72](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/417067) — 5. 8. 2020
+  > „Z § 35 odst. 1 a 2 zákona o auditorech mimo jiné plyne, že dozorčí komise je kontrolním orgánem KAČR a že organizuje a řídí kontroly kvality u auditora, který neprovádí povinný audit ani u jednoho subjektu veřejného zájmu, kontroluje dodržování zákona o auditorech, plnění usnesení sněmu, dodržování jiného právního předpisu o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu…"
+- *NSS* [3 A 70/2019 - 75](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/417064) — 5. 8. 2020
+  > „Soud při použití teleologické metody výkladu zdůrazňuje, že smyslu a účelu právní úpravy kontroly auditorské činnosti daleko lépe odpovídá právě zachování sankční pravomoci kontrolnímu orgánu v podobě stanovené kontrolním řádem tak, aby byl efektivně naplněn účel kontroly kvality, čili aby byl zajištěn již jen její samotný výkon…"
 
 #### Kontrolní funkce a dělba dohledu nad kontrolami kvality
 

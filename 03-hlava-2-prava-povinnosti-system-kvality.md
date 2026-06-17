@@ -48,6 +48,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Ad 9/2022 - 84](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713714) — 19. 7. 2023
+  > „Odpovědnost auditorské společnosti … dle § 25 odst. 3 zákona o auditorech za porušení povinnosti podle § 21 odst. 7 zákona o auditorech je stanovena jako odpovědnost bez ohledu na zavinění této společnosti … tato odpovědnost je odrazem povinnosti, které zákon ukládá právě auditorské společnosti za účelem zajištění organizace a dohledu nad svou auditorskou činností dle § 14d odst. 1 – 3 zákona o auditorech"
+
 #### Struktura ustanovení — povinnosti auditora a právo na součinnost
 
 Paragraf 21 plní dvojí funkci: na straně auditora formuluje **taxativní minimum povinností** (odst. 1), na straně auditora jako oprávněného subjektu pak zakládá **právo na součinnost** ze strany auditované účetní jednotky (odst. 2). Zákon přitom výslovně uvádí, že odst. 1 obsahuje povinnosti „mimo jiných povinností stanovených tímto zákonem" — jde tedy o výčet demonstrativní ve smyslu výslovně zmíněných, nikoli výčet uzavřený; povinnosti auditora plynou rovněž z dalších ustanovení zákona (zejm. §§ 13–20a), z auditorských standardů a z nařízení (EU) č. 537/2014.
@@ -226,6 +231,11 @@ Odstavec 2 in fine upozorňuje na důležitou podmínku: výjimky platí, *nesta
 > *(7) Jednou ročně vydává Rada souhrnnou zprávu o systému zajištění kvality, v níž uvádí podstatná zjištění, zejména opakované nedostatky vnitřních systémů řízení kvality u auditorů, které vyplývají z provedených kontrol kvality. Souhrnná zpráva o systému zajištění kvality obsahuje i informace vycházející z dílčí zprávy zpracované podle odstavce 6. Souhrnnou zprávu o systému zajištění kvality zveřejní Rada na svých internetových stránkách nejpozději do 6 měsíců od skončení kalendářního roku.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 A 105/2018 - 72](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/417067) — 5. 8. 2020
+  > „Soud při použití teleologické metody výkladu zdůrazňuje, že smyslu a účelu právní úpravy kontroly auditorské činnosti daleko lépe odpovídá právě zachování sankční pravomoci kontrolnímu orgánu … tak, aby byl efektivně naplněn účel kontroly kvality, čili aby byl zajištěn již jen její samotný výkon … Bylo by tedy v rozporu se smyslem … právní úpravy kontroly kvality, aby kontrolnímu orgánu byla … odebírána pravomoc rozhodovat o ukládání sankcí, které mají vést k zajištění realizace samotné kontroly kvality žalobcem poskytovaných auditorských služeb, na jejichž vysoké poskytované kvalitě existoval veřejný zájem"
 
 #### Účel a architektura systému zajištění kvality
 

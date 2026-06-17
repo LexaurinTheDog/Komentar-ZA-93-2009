@@ -400,6 +400,11 @@ Odst. 9 otevírá cestu k oprávnění pro PO ze třetích zemí (mimo EU/EHP), 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 19/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-19-24_1) — nález, 4. 6. 2025
+  > „Napadená úprava je způsobilá přispět k naplnění výše uvedeného legitimního cíle ochrany práv jiných osob a zajištění důvěryhodnosti auditorské činnosti (kritérium vhodnosti). … Už při zahájení trestního stíhání pro trestný čin spáchaný úmyslně tak lze hovořit o ohrožení důvěry v řádný výkon auditorské činnosti, které odůvodňuje omezení práv auditorské společnosti"
+
 #### Obligatorní vs. fakultativní pozastavení
 
 § 6 rozlišuje dva režimy: (1) **obligatorní** — Komora pozastaví (nemá diskreci) při trestním stíhání pro úmyslný trestný čin (odst. 1 a 3); (2) **fakultativní** — Komora může pozastavit při stíhání pro nedbalostní trestný čin v souvislosti s auditorskou činností nebo při řízení o omezení svéprávnosti (odst. 2 a 4). Diferenciace reflektuje různou míru ohrožení veřejného zájmu — úmyslné jednání je z povahy věci závažnější.

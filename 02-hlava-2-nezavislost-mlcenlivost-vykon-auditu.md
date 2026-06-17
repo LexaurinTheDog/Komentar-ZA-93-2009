@@ -6,7 +6,6 @@
 
 ## HLAVA II — Auditoři: oprávnění, zkoušky, rejstřík a profesní povinnosti (pokračování)
 
-
 ### § 14 — Nezávislost
 
 > **§ 14**
@@ -927,11 +926,4 @@ Základním pravidlem je, že auditoři musejí vydat **společnou zprávu se sp
 Pokud auditoři nedosáhnou shody (dissent), zákon stanovuje transparentní řešení: každý auditor uvede v jednom dokumentu vlastní výrok a zdůvodní neshodu. Tato úprava je v souladu s čl. 28 směrnice 2006/43/ES. Uveřejnění neshody má samo o sobě informační hodnotu pro uživatele závěrky — signalizuje existenci sporné otázky, o níž se odborníci neshodují.
 
 Výjimka ze mlčenlivosti pro sdílení informací mezi spoluauditoring auditorgory je zakotvena v § 15 odst. 3 písm. l), aby nebyla překážkou efektivní spolupráci.
-
-
-
-
-
-
-
 
