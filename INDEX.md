@@ -80,3 +80,7 @@ Aktuální znění k **1. 1. 2026** (zdroj: lokální výtah z e-Sbírky; konsol
 ---
 
 > **Poznámka:** Auditorská profese je úzce provázána s evropským právem a s vývojem nefinančního výkaznictví (CSRD/ESRS). Tento komentář popisuje stav k 1. 1. 2026.
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
